@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #fcfaf4;
+}
+
+main {
+  display: flex;
+}
+
+.nav {
+  background-color: #e3d2c0;
+  text-decoration: none;
+  padding: 10px;
+  width: 100%;
+
+  position: fixed;
+}
+
+.ul {
+  display: flex;
+  flex-direction: colum;
+  justify-content: space-evenly;
+  background-color: #e3d2c0;
+}
+
+.lista {
+  background-color: #e3d2c0;
+
+  font-style: italic;
+  font-size: large;
+  padding: 10px;
+}
