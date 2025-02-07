@@ -44,6 +44,7 @@ header {
   align-items: center;
   min-height: 100svh;
   justify-content: space-evenly;
+  min-width: 500px;
 }
 
 #figma > div {
