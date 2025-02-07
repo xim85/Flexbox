@@ -60,9 +60,15 @@ header {
 div > h1 {
   font-size: 50px;
   color: #765106;
+  min-width: 500px;
 }
 
 div > p {
+  padding: 20px;
+  margin: 0;
+}
+.button {
+  padding: 20px;
 }
 
 footer {
