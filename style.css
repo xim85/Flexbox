@@ -118,7 +118,7 @@ footer > p {
   }
   main {
     display: flex;
-    flex-grow: 1;
+    flex-wrap: wrap;
   }
   .btn {
     min-width: 120px; /* Evita que el botón se haga demasiado pequeño */
