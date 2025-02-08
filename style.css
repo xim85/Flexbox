@@ -55,6 +55,7 @@ header {
 #figma > img {
   max-width: 500px;
   min-width: 300px;
+  height: auto;
 }
 
 div > h1 {
@@ -117,8 +118,7 @@ footer > p {
     image-rendering: auto;
   }
   main {
-    display: flex;
-    flex-wrap: wrap;
+    margin-top: 100px;
   }
   .btn {
     min-width: 120px; /* Evita que el botón se haga demasiado pequeño */
